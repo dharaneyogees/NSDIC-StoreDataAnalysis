@@ -19,4 +19,4 @@ This Google Sheets-based dashboard is a powerful tool for Ashka Store, enabling 
 # Dashboard
 ## StoreDataAnalysis
 
-Check out my LinkedIn post about this project: [View on LinkedIn](https://www.linkedin.com/in/dharani1014/recent-activity/all/)
+Check out my LinkedIn post about this project: [View on LinkedIn](https://www.linkedin.com/posts/dharani1014_nsdic-datavisualization-dataanalytics-activity-7232428651621801986-xpDO?utm_source=share&utm_medium=member_desktop)
