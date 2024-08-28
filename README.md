@@ -16,7 +16,7 @@ Tools Used: Google Sheets was chosen for its accessibility and powerful data vis
 Analysis Techniques: The project involves data cleaning, organization, and visualization within Google Sheets, ensuring the data is accurate and the insights are actionable.
 ## **Conclusion**
 This Google Sheets-based dashboard is a powerful tool for Ashka Store, enabling the store's owner to make data-driven decisions. By utilizing Google Sheets, we’ve created an accessible, flexible, and insightful solution that can be easily updated and shared.
-## Dashboard
-# StoreDataAnalysis
+# Dashboard
+## StoreDataAnalysis
 
 Check out my LinkedIn post about this project: [View on LinkedIn](https://www.linkedin.com/in/dharani1014/recent-activity/all/)
