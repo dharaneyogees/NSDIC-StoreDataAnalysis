@@ -4,7 +4,7 @@ Owner of Ashka Store wants us to help them create a dashboard to track and analy
 Prepare a Dashboard and share insights based on the attached data for the leads to make business decisions.
 ## **Overview**
 This project is centered on creating a dynamic dashboard using Google Sheets to help Ashka Store track and analyze their online sales across India. The dashboard is designed to provide key insights into sales performance, customer behavior, and regional trends, enabling the store's management to make informed business decisions.
-Project Objectives:
+### Project Objectives:
 -Sales Tracking: The Google Sheets dashboard monitors sales data across different regions in India, identifying high and low-performing areas.
 -Revenue Breakdown: It includes detailed analysis of revenue by product categories, highlighting best-sellers and items needing attention.
 -Customer Insights: The dashboard provides an analysis of customer demographics and buying patterns to understand the store’s target audience better.
